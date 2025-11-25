@@ -487,17 +487,17 @@ input {
     @keyframes boxx {
         0% {
             box-shadow: black 1px 1px 10px;
-            background-image: url(preview.avif);
+            background-image: url(./Screenshot\ 2025-11-25\ 194211.png);
         }
 
         50% {
             box-shadow: black 1px 1px 20px;
-            background-image: url(image-28.webp);
+            background-image: url(./Screenshot\ 2025-11-25\ 194311.png);
         }
 
         100% {
             box-shadow: black 1px 1px 10px;
-            background-image: url(01.avif);
+            background-image: url(./Screenshot\ 2025-11-25\ 194424.png);
         }
     }
 
@@ -511,17 +511,17 @@ input {
     @keyframes box {
         0% {
             box-shadow: black 1px 1px 10px;
-            background-image: url(01.avif);
+            background-image: url(./Screenshot\ 2025-11-25\ 194424.png);
         }
 
         50% {
             box-shadow: black 1px 1px 20px;
-            background-image: url(i.webp);
+            background-image: url(./Screenshot\ 2025-11-25\ 194605.png);
         }
 
         100% {
             box-shadow: black 1px 1px 10px;
-            background-image: url(image-28.webp);
+            background-image: url(./Screenshot\ 2025-11-25\ 194211.png);
         }
     }
 
@@ -587,4 +587,5 @@ input {
         right: 20px;
 
     }
+
 }
